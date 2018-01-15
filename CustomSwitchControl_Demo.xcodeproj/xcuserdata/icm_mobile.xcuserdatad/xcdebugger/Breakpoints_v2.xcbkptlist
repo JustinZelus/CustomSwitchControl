@@ -10,12 +10,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CustomSwitchControl_Demo/JZMaterialSwitch.swift"
-            timestampString = "537412477.244796"
+            timestampString = "537703056.597965"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "104"
-            endingLineNumber = "104"
-            landmarkName = "init(withSize:state:)"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "onTouchUpOutsideOrCanceled(btn:withEvent:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -26,12 +26,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CustomSwitchControl_Demo/JZMaterialSwitch.swift"
-            timestampString = "537412477.245348"
+            timestampString = "537703068.869608"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "109"
-            endingLineNumber = "109"
-            landmarkName = "init(withSize:state:)"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "onTouchUpOutsideOrCanceled(btn:withEvent:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -42,12 +42,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CustomSwitchControl_Demo/JZMaterialSwitch.swift"
-            timestampString = "537412477.245698"
+            timestampString = "537703084.298112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "110"
-            endingLineNumber = "110"
-            landmarkName = "init(withSize:state:)"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "onTouchUpOutsideOrCanceled(btn:withEvent:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
