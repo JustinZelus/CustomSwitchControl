@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-///dddd
+
 public enum JZMaterialSwitchSize {
     case big, normal, small
 }
@@ -41,6 +41,8 @@ class JZMaterialSwitch : UIControl {
     /** A CGFloat value to represent the switch thumb size(width and height)*/
     var thumbSize: CGFloat!
     
+    /** A Boolean value whether the ripple animation effect is enabled or not */
+    var isRippleEnabled: Bool = false;
     
     fileprivate var thumbOffPosition: CGFloat!
     
@@ -125,6 +127,14 @@ class JZMaterialSwitch : UIControl {
     //MARk: - Event Actions
     @objc func onTouchDown(btn: UIButton, withEvent event: UIEvent)
     {
-        print("pu tsu,pu tsu")
+        // print("touchDown called")
+        if self.isRippleEnabled {
+            self.initializeRipple();
+        }
+    }
+    
+    // Initialize and appear ripple effect
+    func initializeRipple() {
+        
     }
 }
